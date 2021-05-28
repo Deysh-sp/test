@@ -13,7 +13,7 @@
 
 $(document).ready(function(){ 
 
-
+console.log("here")
 	var browser = JSON.stringify({
 	  isAndroid: /Android/.test(navigator.userAgent),
 	  isCordova: !!window.cordova,
