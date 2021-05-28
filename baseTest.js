@@ -1,7 +1,7 @@
 
 
 
-<script src="https://github.com/Deysh-sp/test/blob/7a0fb04e0271912ce477461503db9b6d0cc18d6a/jquery.js"></script>
+<script src="https://raw.githubusercontent.com/Deysh-sp/test/main/jquery.js?token=AUHAJWQ6ZE2YQ2Y5MN57P23AWDMQK"></script>
 
 
 
